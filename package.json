@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "lottie-web-vue": "^2.0.7",
     "nuxt": "^3.12.3",
     "preline": "^2.3.0",
     "vue": "latest"
